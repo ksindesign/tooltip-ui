@@ -60,6 +60,7 @@ body {
   transition: opacity 0.3s;
 }
 
+/* adjust the tooltiptext position of the last element */
 .tooltip:last-child .tooltiptext {
   left: 50%;
 }
